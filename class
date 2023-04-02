@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-02T11:34:13.496Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" etag="v2fURRazKYOb0tf74Lp9" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-02T12:21:12.181Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" etag="nadFmIHElssVdBZuppOl" version="21.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3568" dy="2875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2000" dy="1925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -1021,11 +1021,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="j_weou4xO9XrSCE9bnY3-93" value="等待确定" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;endArrow=classic;" vertex="1" parent="j_weou4xO9XrSCE9bnY3-84">
-          <mxGeometry x="244.66999999999996" y="435" width="120" height="60" as="geometry" />
+          <mxGeometry x="244.66999999999996" y="365" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j_weou4xO9XrSCE9bnY3-156" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.514;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;entryPerimeter=0;" edge="1" parent="j_weou4xO9XrSCE9bnY3-84" source="j_weou4xO9XrSCE9bnY3-94" target="j_weou4xO9XrSCE9bnY3-163">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="304.6700000000001" y="833.1700000000001" as="targetPoint" />
+            <mxPoint x="304.6700000000001" y="763.1700000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j_weou4xO9XrSCE9bnY3-157" value="确定铸造NFT&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); font-family: Helvetica;&quot;&gt;是 否&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="j_weou4xO9XrSCE9bnY3-156">
@@ -1036,7 +1036,7 @@
         <mxCell id="j_weou4xO9XrSCE9bnY3-164" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;" edge="1" parent="j_weou4xO9XrSCE9bnY3-84" source="j_weou4xO9XrSCE9bnY3-94" target="j_weou4xO9XrSCE9bnY3-89">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="120" y="683" />
+              <mxPoint x="120" y="613" />
               <mxPoint x="120" y="125" />
             </Array>
           </mxGeometry>
@@ -1047,37 +1047,37 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="j_weou4xO9XrSCE9bnY3-94" value="显示成品图&lt;br&gt;等待填写相关信息" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;endArrow=classic;" vertex="1" parent="j_weou4xO9XrSCE9bnY3-84">
-          <mxGeometry x="246.66999999999996" y="653.17" width="120" height="60" as="geometry" />
+          <mxGeometry x="246.66999999999996" y="583.17" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j_weou4xO9XrSCE9bnY3-159" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.498;entryY=0.024;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;entryPerimeter=0;" edge="1" parent="j_weou4xO9XrSCE9bnY3-84" source="j_weou4xO9XrSCE9bnY3-96" target="j_weou4xO9XrSCE9bnY3-162">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="305.33" y="930.0000000000001" as="targetPoint" />
+            <mxPoint x="305.33" y="860.0000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j_weou4xO9XrSCE9bnY3-96" value="要求手续费" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;endArrow=classic;" vertex="1" parent="j_weou4xO9XrSCE9bnY3-84">
-          <mxGeometry x="248.67" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="248.67" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j_weou4xO9XrSCE9bnY3-158" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;exitX=0.491;exitY=0.967;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="j_weou4xO9XrSCE9bnY3-84" source="j_weou4xO9XrSCE9bnY3-163" target="j_weou4xO9XrSCE9bnY3-96">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="304.7142857142858" y="893.1700000000001" as="sourcePoint" />
+            <mxPoint x="304.7142857142858" y="823.1700000000001" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j_weou4xO9XrSCE9bnY3-98" value="铸造结束-&amp;gt;个人页面" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=default;endArrow=classic;rounded=1;" vertex="1" parent="j_weou4xO9XrSCE9bnY3-84">
-          <mxGeometry x="240" y="1151.83" width="153.34" height="60" as="geometry" />
+          <mxGeometry x="240" y="1081.83" width="153.34" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j_weou4xO9XrSCE9bnY3-99" value="回到创作页面" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=default;endArrow=classic;rounded=1;" vertex="1" parent="j_weou4xO9XrSCE9bnY3-84">
-          <mxGeometry x="119.99999999999994" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="119.99999999999994" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j_weou4xO9XrSCE9bnY3-160" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;exitX=0.508;exitY=0.971;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="j_weou4xO9XrSCE9bnY3-84" source="j_weou4xO9XrSCE9bnY3-162" target="j_weou4xO9XrSCE9bnY3-101">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="1025" as="sourcePoint" />
+            <mxPoint x="310" y="955" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j_weou4xO9XrSCE9bnY3-101" value="铸造NFT" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;endArrow=classic;" vertex="1" parent="j_weou4xO9XrSCE9bnY3-84">
-          <mxGeometry x="253.34" y="1061.83" width="120" height="60" as="geometry" />
+          <mxGeometry x="253.34" y="991.8299999999999" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j_weou4xO9XrSCE9bnY3-102" value="回到 显示成品图" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=default;endArrow=classic;rounded=1;" vertex="1" parent="j_weou4xO9XrSCE9bnY3-84">
-          <mxGeometry x="109.99999999999996" y="1018.17" width="120" height="60" as="geometry" />
+          <mxGeometry x="109.99999999999996" y="948.17" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j_weou4xO9XrSCE9bnY3-154" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;" edge="1" parent="j_weou4xO9XrSCE9bnY3-84" source="j_weou4xO9XrSCE9bnY3-106" target="j_weou4xO9XrSCE9bnY3-94">
           <mxGeometry relative="1" as="geometry" />
@@ -1088,13 +1088,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="j_weou4xO9XrSCE9bnY3-106" value="进行风格迁移" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;endArrow=classic;" vertex="1" parent="j_weou4xO9XrSCE9bnY3-84">
-          <mxGeometry x="244.66999999999996" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="244.66999999999996" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j_weou4xO9XrSCE9bnY3-162" value="支付手续费&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;font-family: Helvetica;&quot;&gt;成功 失败&lt;/span&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;labelBackgroundColor=default;endArrow=classic;rounded=1;" vertex="1" parent="j_weou4xO9XrSCE9bnY3-84">
-          <mxGeometry x="253.33999999999995" y="960" width="116.66" height="70" as="geometry" />
+          <mxGeometry x="253.33999999999995" y="890" width="116.66" height="70" as="geometry" />
         </mxCell>
         <mxCell id="j_weou4xO9XrSCE9bnY3-163" value="" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;labelBackgroundColor=default;endArrow=classic;rounded=1;" vertex="1" parent="j_weou4xO9XrSCE9bnY3-84">
-          <mxGeometry x="281.67" y="790" width="50" height="30" as="geometry" />
+          <mxGeometry x="281.67" y="720" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j_weou4xO9XrSCE9bnY3-85" value="市场" style="swimlane;whiteSpace=wrap;html=1;rounded=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;labelBackgroundColor=default;endArrow=classic;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="534" y="5670" width="436" height="1480" as="geometry" />
