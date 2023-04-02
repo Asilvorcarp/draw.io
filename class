@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-02T14:26:27.931Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" etag="--Yfxgqz-pM3uhcGJ8vJ" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-02T14:27:44.670Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" etag="APV49mEqlsmQCr7kQ2AF" version="21.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2153" dy="1915" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2771" dy="2266" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -1089,7 +1089,7 @@
         </mxCell>
         <mxCell id="j_weou4xO9XrSCE9bnY3-233" value="显示个人资产" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="j_weou4xO9XrSCE9bnY3-232">
           <mxGeometry x="0.3396" y="2" relative="1" as="geometry">
-            <mxPoint x="-377" y="10" as="offset" />
+            <mxPoint x="-378" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j_weou4xO9XrSCE9bnY3-234" value="铸造完成" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="j_weou4xO9XrSCE9bnY3-232">
@@ -1196,8 +1196,8 @@
         <mxCell id="j_weou4xO9XrSCE9bnY3-186" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;" edge="1" parent="j_weou4xO9XrSCE9bnY3-85" source="j_weou4xO9XrSCE9bnY3-134" target="j_weou4xO9XrSCE9bnY3-126">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="293" y="210.54999999999998" />
-              <mxPoint x="179" y="210.54999999999998" />
+              <mxPoint x="298" y="211" />
+              <mxPoint x="179" y="211" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1414,7 +1414,7 @@
         </mxCell>
         <mxCell id="j_weou4xO9XrSCE9bnY3-235" value="显示市场陈列" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="j_weou4xO9XrSCE9bnY3-229">
           <mxGeometry x="-0.6826" y="-2" relative="1" as="geometry">
-            <mxPoint x="31" y="14" as="offset" />
+            <mxPoint x="30" y="11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j_weou4xO9XrSCE9bnY3-236" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j_weou4xO9XrSCE9bnY3-136" target="j_weou4xO9XrSCE9bnY3-86">
@@ -1432,7 +1432,7 @@
         </mxCell>
         <mxCell id="j_weou4xO9XrSCE9bnY3-238" value="显示个人资产" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="j_weou4xO9XrSCE9bnY3-236">
           <mxGeometry x="0.1842" relative="1" as="geometry">
-            <mxPoint x="-31" y="9" as="offset" />
+            <mxPoint x="-36" y="9" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
