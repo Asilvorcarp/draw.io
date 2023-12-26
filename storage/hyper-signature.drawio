@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-26T06:03:42.426Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="vcjoQY7qExa9TAA-uSOK" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-26T06:32:42.089Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="EMMVxrqEOi5PkMuCwd_k" version="22.1.11" type="github">
   <diagram name="Page-1" id="PZq0YOHbQ7oVLTurD-o1">
-    <mxGraphModel dx="787" dy="1657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="624" dy="1559" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,7 +65,7 @@
         <mxCell id="wh6k3LLbh3ott6qiLdMX-40" value="①" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="270" y="160" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wh6k3LLbh3ott6qiLdMX-17" value="$$Shape_{E(m)}$$" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;startArrow=none;startFill=0;labelBackgroundColor=none;" edge="1" target="wh6k3LLbh3ott6qiLdMX-16" parent="1">
+        <mxCell id="wh6k3LLbh3ott6qiLdMX-17" value="$$Size_{E(m)}$$" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;startArrow=none;startFill=0;labelBackgroundColor=none;" edge="1" target="wh6k3LLbh3ott6qiLdMX-16" parent="1">
           <mxGeometry y="-5" relative="1" as="geometry">
             <mxPoint x="315" y="195" as="sourcePoint" />
             <mxPoint as="offset" />
