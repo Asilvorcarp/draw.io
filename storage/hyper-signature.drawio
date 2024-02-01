@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T12:01:56.490Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="iuCXWkTBIJQ6BEWsvCh8" version="22.1.12" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-01T14:45:53.163Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="zg2tZa7EMCLqtWPLTr7A" version="22.1.17" type="github">
   <diagram name="Page-1" id="PZq0YOHbQ7oVLTurD-o1">
-    <mxGraphModel dx="1838" dy="2315" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="635" dy="1541" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -93,6 +93,24 @@
             <mxPoint x="475" y="-709" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BrTKEgk7l0qO_2mIqox_-1" value="neural network&lt;br&gt;block" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f2f2f2;strokeColor=#7f7f7f;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="225" y="-546" width="90" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="BrTKEgk7l0qO_2mIqox_-2" value="zero convolution" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="482" y="-620" width="123" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="BrTKEgk7l0qO_2mIqox_-4" value="ControlNet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="446.5" y="-546" width="137" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BrTKEgk7l0qO_2mIqox_-5" value="Prompt \(c_t\)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=12;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="443" y="-484" width="137" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BrTKEgk7l0qO_2mIqox_-7" value="trainable copy" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeef3;strokeColor=#30849b;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="335" y="-546.5" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="BrTKEgk7l0qO_2mIqox_-8" value="Prompt `c_t`" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=12;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="443" y="-443" width="137" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
